@@ -1,0 +1,5 @@
+[server]
+port = 8501
+baseUrlPath = "upload"
+enableCORS = false
+enableXsrfProtection = false
